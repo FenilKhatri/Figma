@@ -1,12 +1,10 @@
 # Figma
 
-## 1) Shoes
+## 1. Medical_Website
+   A modern, responsive website for Dr. Longevity focused on functional medicine and longevity programs. Built using HTML, CSS, JavaScript, and Bootstrap, the site features smooth scroll animations, a grid-based layout, and is optimized for all device sizes to ensure a seamless user experience.
 
-a) **While Clicking on the next and previous -** https://github.com/user-attachments/assets/485052c0-d3c2-4fde-8d0f-ec31216dbec8
+## 2. On_Click_Animation
+   Designed a Figma prototype for a modern, interactive shoe website featuring smooth click-based transitions. Upon clicking a button, shoe models change one by one with seamless animations, enhancing user engagement and providing a visually appealing browsing experience. The design focuses on intuitive interaction and smooth transitions to create a polished and dynamic UI.
 
-b) **While Hovering to the Shoes -** https://github.com/user-attachments/assets/82b911cf-ac24-4ef0-8d88-6e8b072086db
-
-
-## 2) Medical Website
-   ![Prototype](https://github.com/user-attachments/assets/955c2235-28fb-4878-8352-baa246c30483)
-
+## 3. On_Hover_Animation
+   Designed a Figma prototype for a modern, interactive shoe website featuring smooth hover-based transitions. When users hover over buttons or shoe models, the displayed shoes change one by one with seamless animations. The design emphasizes intuitive interaction and a visually engaging experience through dynamic hover effects and polished UI elements.
