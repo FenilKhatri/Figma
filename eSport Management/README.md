@@ -9,3 +9,5 @@
 
 ## 🧩 Tech Stack
   - Figma
+
+![Home](https://github.com/user-attachments/assets/7676bd08-80ee-48da-ae33-8c7d0555771b)
